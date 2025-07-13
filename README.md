@@ -93,6 +93,7 @@ This project demonstrated the power of NLP and machine learning for text classif
 
 ## Contact
 Author: Babulal Jangid
+
 Email: jangidbabulal760@gmail.com
 
 
